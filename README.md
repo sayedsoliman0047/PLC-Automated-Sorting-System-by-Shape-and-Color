@@ -1,5 +1,4 @@
 # PLC-Automated-Sorting-System-by-Shape-and-Color
-# Automated Industrial Sorting System (PLC & Factory I/O)
 
 ## 📌 Project Overview
 This project presents a fully automated industrial sorting system developed using **Siemens TIA Portal** and simulated in **Factory I/O**.  
@@ -25,16 +24,6 @@ The control system follows industrial best practices and includes:
 - **Safety Interlocking:**  
   - Emergency Stop overrides all operations  
   - Safe system shutdown on Stop command  
-
----
-
-## 🔌 I/O Configuration
-
-| Inputs (Sensors)              | Outputs (Actuators)           |
-|-----------------------------|-------------------------------|
-| Start / Stop Push Buttons   | Belt Conveyors (Main & Curved)|
-| Vision Sensors (1–4)        | Pivot Arm Sorter (Turn/Belt)  |
-| System Status Signals       | Indicator Lights              |
 
 ---
 
@@ -72,9 +61,3 @@ The control system follows industrial best practices and includes:
 3. Open the scene in **Factory I/O**
 4. From `File > Drivers`, select **S7-PLCSIM** and ensure connection is active
 5. Run the simulation and press **Start**
-
----
-
-## 💡 Notes
-- Make sure all tags are correctly mapped between TIA Portal and Factory I/O  
-- Ensure PLCSIM is running before starting Factory I/O connection  
