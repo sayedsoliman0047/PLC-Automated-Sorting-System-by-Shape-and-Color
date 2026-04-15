@@ -49,7 +49,7 @@ The control system follows industrial best practices and includes:
 ![Network 5](3.png)
 
 ### 🔹 Factory I/O Scene
-![Simulation Scene](factory_scene.jpg)
+![Simulation Scene](Factory IO Scene.png)
 
 ---
 
