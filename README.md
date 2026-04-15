@@ -9,7 +9,7 @@ The system detects different products using Vision Sensors and automatically sor
 ---
 
 ## 🛠️ Technologies Used
-- **PLC Programming:** Siemens TIA Portal (S7-1200 / S7-1500)
+- **PLC Programming:** Siemens TIA Portal (S7-1200)
 - **Simulation:** Factory I/O
 - **PLC Simulation:** Siemens S7-PLCSIM
 - **Programming Language:** Ladder Diagram (LAD)
