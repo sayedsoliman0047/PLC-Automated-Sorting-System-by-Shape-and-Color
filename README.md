@@ -41,7 +41,7 @@ The control system follows industrial best practices and includes:
 ## 📸 Project Preview
 
 ### 🔹 Driver Configuration
-![Driver Setup](0.jpg)
+![Driver Setup](0.png)
 
 ### 🔹 Ladder Logic Implementation
 ![Network 1-2](1.png)  
