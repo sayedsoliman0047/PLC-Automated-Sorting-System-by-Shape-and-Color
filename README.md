@@ -54,7 +54,7 @@ The control system follows industrial best practices and includes:
 ---
 
 ## 🎥 Demo Video
-👉 [Watch the simulation video](PUT_YOUR_VIDEO_LINK_HERE)
+👉 [Watch the simulation video](Video.mp4)
 
 ---
 
